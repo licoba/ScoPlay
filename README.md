@@ -1,11 +1,10 @@
 # ScoPlay
-Android Sco播放Demo
 
+Android Sco 播放 Demo
 
 ## Screen Shot
 
-![20210329-163546-Screenshot_20210329-163514](https://raw.githubusercontent.com/licoba/images/master/20210329-163546-Screenshot_20210329-163514.jpg?token=AETOTFI76WSHMSCCL5HREL3AMGIZ6)
-
+![20210329-163828-O2Ysmi](https://raw.githubusercontent.com/licoba/images/master/20210329-163828-O2Ysmi.jpg?token=AETOTFMGN4RDWUAAK4ECO7DAMGJEC)
 
 ## Apk Download
 
