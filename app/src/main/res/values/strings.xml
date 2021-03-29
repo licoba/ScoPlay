@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ScoPlay</string>
+    <string name="tab_text_1">Sco播放</string>
+    <string name="tab_text_2">Normal播放</string>
+</resources>
