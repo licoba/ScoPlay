@@ -6,7 +6,7 @@ Android Sco 播放 Demo
 
 <!-- ![20210329-163828-O2Ysmi](https://raw.githubusercontent.com/licoba/images/master/20210329-163828-O2Ysmi.jpg?token=AETOTFMGN4RDWUAAK4ECO7DAMGJEC) -->
 
- <img src="https://raw.githubusercontent.com/licoba/images/master/20210329-163828-O2Ysmi.jpg?token=AETOTFMGN4RDWUAAK4ECO7DAMGJEC" width = "300"/>
+ <img src="./app/screenshot.jpg" width = "300"/>
 
 ## Apk Download
 
