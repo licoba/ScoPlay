@@ -1,6 +1,6 @@
 # ScoPlay
 
-Android Sco 播放 Demo
+Android 蓝牙Sco通道播放、录音 Demo
 
 ## Screen Shot
 
